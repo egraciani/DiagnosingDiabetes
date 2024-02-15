@@ -1,7 +1,8 @@
 ## Project focused on using EDA skills to help inspect, clean, and validate the data.
 
 
-- https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
+https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
+
 Note: This dataset is from the National Institute of Diabetes and Digestive and Kidney Diseases. It contains the following columns:
 
 - Pregnancies: Number of times pregnant
